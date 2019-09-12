@@ -1,0 +1,23 @@
+//M2LAB 
+//Alex Rodriguez
+9/12/19
+
+//Greet the user by name
+//then tell them their age
+//on their next birthday
+
+//Declarations
+Declare string name
+Declare interger age
+
+
+Display "Hello ! What's your name?"
+Input name
+
+Display 'How old are you?"
+input age
+
+set age = age + 1
+Display Well, ", name, " on your next birthday ..."
+Display "You will be "' age, "!"
+
